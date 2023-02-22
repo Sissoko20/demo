@@ -1,0 +1,25 @@
+{ 
+
+    "activities": [
+
+        { "id": 1, "imglocal": "../assets/cvprofil.jpg","imghub":"https://imgs.search.brave.com/8TRkYsMuiOwNCoGw6VQrCUUM3ghZ97ErOExK85L9d5c/rs:fit:658:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5y/Q2lHV1RfNERScVJR/UU5MMXI4UkN3SGFG/ViZwaWQ9QXBp","description":"Tchie bou djen wolof" },
+     
+        { "id":2, "imglocal": "../assets/asow.png","imghub":"https://imgs.search.brave.com/Xpgo7RNR-WUGNhf83VLwfr6BB1TGLLIQfFIBcYgSwvY/rs:fit:600:394:1/g:ce/aHR0cHM6Ly9pLnNr/eXJvY2submV0LzU0/MzIvODMxNzU0MzIv/cGljcy8zMDgxOTIz/MjM5XzFfM19XYWp4/YWxHcy5qcGc","description":"Tchie bou djen malien" }
+     
+      ],
+  
+      "cake": [
+
+        { "id": 1, 
+        "imghub":"https://imgs.search.brave.com/LRZfe2sNZYeM6uwdFnon4O3k9LYorb7aImU8AmqWRbg/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9iYWtl/cnNicmV3c3R1ZGlv/Mi5zaG9wY2FkYWNk/bi5jb20vc2l0ZXMv/ZmlsZXMvYmFrZXJz/YnJld3N0dWRpbzIv/cHJvZHVjdGltZy8y/MDE5MDMvYmVzdF9m/dWxsX2Nob2NvbGF0/ZV9iaXJ0aGRheV9j/YWtlX3NpbmdhcG9y/ZV8wMi5qcGc",
+        "description":"Full Chocolate Cake | Baker's Brew"},
+     
+        { "id":2, "imghub":"https://imgs.search.brave.com/txNR6zkHj5y9I5LRuL21usxaftTYDibdkH8Amt92Lnk/rs:fit:1200:1200:1/g:ce/aHR0cDovL2JlbGxh/cm9zYWJha2luZ2Nv/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAxOC8xMi9mdWxs/c2l6ZW91dHB1dF82/NDkuanBlZw",
+        "description":"Butter Cake with Chocolate Buttercream Frosting - bellarosabakingco." }
+     
+      ]
+  
+}
+
+  
+  
